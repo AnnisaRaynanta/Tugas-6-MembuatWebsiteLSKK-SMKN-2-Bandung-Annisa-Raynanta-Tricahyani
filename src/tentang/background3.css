@@ -1,0 +1,33 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.background3{
+    display: flex;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   background-image: url('background.svg');
+    
+    min-height: 100vh;
+}
+
+.text9{
+    margin-top: 300px;
+   margin-left: 430px;
+   color: white;
+
+}
+
+.text9>h1{
+    font-size: 60px;
+    margin-left: 50px;
+}
+
+.text9>p{
+    margin-left: 80px;
+    font-size: 20px;
+}
+ 

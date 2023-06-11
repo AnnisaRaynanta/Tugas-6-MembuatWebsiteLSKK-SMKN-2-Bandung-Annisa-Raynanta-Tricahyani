@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.text4{
+    border-top: 1px solid white;
+    background-color: rgba(0, 162, 255, 0.863);
+    height: 60px;
+ 
+}
+
+.text5>p{
+    font-size: 13px;
+    text-align: center;
+  color: white;
+}
+
+.text5{
+    margin-top: 10px;
+}

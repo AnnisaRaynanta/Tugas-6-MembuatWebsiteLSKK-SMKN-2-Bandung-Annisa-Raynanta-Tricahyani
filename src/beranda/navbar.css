@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 70px;
+    position: fixed;
+    top: 0;
+    z-index: 999;
+  background-image: linear-gradient(to right, rgb(0, 153, 255), rgb(0, 204, 255));
+
+    /* position: fixed;
+    top: 0; */
+}
+
+
+
+
+.navigasi{
+    padding: 20px;
+   text-decoration: none;
+   color: white;
+}
+
+.navigasi:hover{
+    color: rgba(251, 252, 253, 0.61);
+}
+
+.link{
+    margin-top: 23px;
+    margin-left: 490px;
+}
+
+.logo>img{
+    width: 120px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 50px;
+}

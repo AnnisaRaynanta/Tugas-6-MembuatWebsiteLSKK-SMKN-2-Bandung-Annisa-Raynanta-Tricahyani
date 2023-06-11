@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.background2{
+    display: flex;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   background-image: url('background.svg');
+    
+    min-height: 100vh;
+}
+
+.text3{
+    margin-top: 300px;
+   margin-left: 500px;
+    
+
+}
+
+.text3>h1{
+    font-size: 60px;
+    margin-left: 50px;
+    color: white;
+}
+
+.text3>p{
+    margin-left: 40px;
+    font-size: 20px;
+    color: white;
+}
+
+
+
+
+

@@ -1,0 +1,42 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.background{
+    display: flex;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+    background-image: url('background.svg');
+    
+    min-height: 100vh;
+}
+
+.text1{
+    margin-top: 170px;
+    margin-left: 100px;
+    width: 700px;
+    font-size: 25px;
+    color: white;
+}
+
+#kotak3{
+    margin-top: 20px;
+    height: 50px;
+    width: 300px;
+   background-color: transparent;
+    border: 3px solid white;
+    color: white;
+    font-weight: 20px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+#kotak3:hover{
+    background-color: rgba(0, 119, 255, 0.87);
+}
+
+
+

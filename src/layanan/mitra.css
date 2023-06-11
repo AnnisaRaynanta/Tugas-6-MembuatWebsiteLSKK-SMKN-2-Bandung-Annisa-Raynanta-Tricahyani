@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.mitra{
+    margin-top: 150px;
+    background-color: whitesmoke;
+    height: 350px;
+}
+.mitra1>img{
+ margin-left: 100px;
+    width: 200px;
+    height: 200px;
+    padding: 35px;
+    
+}
+
+.mitra>h1{
+    padding-top: 30px;
+   
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,18 @@
+.background4{
+    display: flex;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   background-image: url('background.svg');
+    
+    min-height: 100vh;
+}
+
+.texttt{
+    margin-top: 300px;
+   margin-left: 550px;
+    font-size: 40px;
+    color: white;
+
+}
+

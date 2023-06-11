@@ -1,0 +1,32 @@
+.semua1>img{
+    width: 400px;
+    height: 400px;
+}
+
+.semua1{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+}
+
+
+.semua2{
+    width: 700px;
+  
+    margin-left: 50px;
+}
+
+.semua2>p{
+    padding: 10px;
+}
+.semua2>h2{
+   
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.semua>h1{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}

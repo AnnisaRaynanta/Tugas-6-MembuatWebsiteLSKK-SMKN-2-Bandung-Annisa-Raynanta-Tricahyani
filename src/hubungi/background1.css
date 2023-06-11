@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.background1{
+    display: flex;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   background-image: url('background.svg');
+    
+    min-height: 100vh;
+}
+
+.text2{
+    margin-top: 300px;
+   margin-left: 500px;
+    color: white;
+
+}
+
+.text2>h1{
+    font-size: 60px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.text2>p{
+    margin-left: 100px;
+    font-size: 20px;
+    color: white;
+}
+
+
+
+
+
